@@ -1,13 +1,16 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
+~~~
 Name : H.Syed Abdul Wasih
 Register No : 212221240057
 Date of experiment : 06/10/2022
 
-Ex. No. : 4
+Ex. No. : 3
 Date : 06/10/2022
- 
-### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
-Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+~~~
+### Aim:
+To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
+### Components required:
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ### Theory:
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
